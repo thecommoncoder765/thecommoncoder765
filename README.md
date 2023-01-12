@@ -1,5 +1,5 @@
 ### Hey! 👋
-I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift. I am best at Python, and I make Discord bots with it.
+I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift. I am best at Python, and I make Discord bots with it. Check out the [website](https://www.elijahsutilities.net)!
 
 - 🔭 I’m currently working on a Discord bot.
 - 🌱 I’m currently fluent in Python, partially fluent in JavaScript, Swift, and C#. I am bad at Java, and learning Rust.
