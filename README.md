@@ -2,15 +2,15 @@
 I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift. I am best at Python, and I make Discord bots with it. Check out this [website](https://www.elijahsutilities.net)!
 
 - 🔭 I’m currently working on a Discord bot.
--   You can invite it [here](https://top.gg/https://top.gg/bot/1036384426113908756)!
+-   You can invite it [here](https://top.gg/bot/1036384426113908756)!
 - 🌱 I’m currently fluent in Python, partially fluent in JavaScript, Swift, and C#. I am bad at Java, and learning Rust.
 - 👯 I’m looking to collaborate on simple Python projects. (Simple not meaning basic, just not complex :)
 - 🤔 I’m looking for help with any issues with my repositories.
 - 💬 Ask me about my Discord bot!
 - 📫 How to reach me: 
   - Discord: elijahsears7#5573
-  - Github Issues (On Repository)
-  - Github Discussions (On Repository)
+  - Github Issues ([On Repository](https://github.com/thecommoncoder765/elijahs-utilities-ultimate))
+  - Github Discussions ([On Repository](https://github.com/thecommoncoder765/elijahs-utilities-ultimate))
 - ⚡ Fun fact: I made a game when I was 10 years old in Unity. It just launches a box forever into space.
 ## Frameworks
 Here are the frameworks that I am good in.
