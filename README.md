@@ -1,14 +1,12 @@
 ### Hey! 👋
 I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift. I am best at Python, and I make Discord bots with it.
-## Projects
-I am currently working on a Discord bot.
+
+- 🔭 I’m currently working on a Discord bot
+- 🌱 I’m currently fluent in Python, and learning rust.
 <!--
 **thecommoncoder765/thecommoncoder765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
