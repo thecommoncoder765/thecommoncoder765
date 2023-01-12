@@ -15,8 +15,9 @@ I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift.
 ## Frameworks
 Here are the frameworks that I am good in.
 - Speed: Approx. how fast I am able to write the code.
+- - I type at 50 WPM for benchmark.
 - Experience: How much I know about the framework, and how fast I can make use of it. This doesn't mean I am a professional at the framework, it just means I am good enough to program fast and fluently.
-- Knowledge is the amount of completion of the framework. If the knowledge is low, there will be a **LOT** of Googling. I will ***NOT*** be counting full completion for commands that are rarely used/needed.Language is how much experience I have in the *language*, not the *framework*. I type at 50 WPM for benchmark.
+- Knowledge is the amount of completion of the framework. If the knowledge is low, there will be a **LOT** of Googling. I will ***NOT*** be counting full completion for commands that are rarely used/needed.Language is how much experience I have in the *language*, not the *framework*.
 ### Python
 - Language: I am pretty fast at Python.
 
