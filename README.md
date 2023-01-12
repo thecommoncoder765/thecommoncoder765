@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift.
+## Projects
+I am currently working on a Discord bot.
 <!--
 **thecommoncoder765/thecommoncoder765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
