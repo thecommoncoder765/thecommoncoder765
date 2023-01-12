@@ -25,6 +25,8 @@ For Discord.py, you can check out my experience in this [repository](https://git
  Framework   | Experience (1-10) | Speed (LnPerMin) | Knowledge (%) |
  ----------- | ----------------- | ---------------- | ------------- |
  Discord.py  | 8-10              | 38               | 30%           |
+ ### JavaScript
+ > This field is being worked on
 <!--
 **thecommoncoder765/thecommoncoder765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
