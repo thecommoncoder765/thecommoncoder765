@@ -24,7 +24,7 @@ Here are the frameworks that I am good in.
 For Discord.py, you can check out my experience in this [repository](https://github.com/thecommoncoder765/elijahs-utilities-ultimate). The main bot file is in ./bot/main.py.
  Framework   | Experience (1-10) | Speed (LnPerMin) | Knowledge (%) |
  ----------- | ----------------- | ---------------- | ------------- |
- Discord.py  | 8-10              | 38               | 30%           |
+ Discord.py  | 8-10              | 17               | 30%           |
  ### JavaScript
  > This field is being worked on
 <!--
