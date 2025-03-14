@@ -4,8 +4,7 @@ I'm Elijah. I am a young programmer that works in Python, JavaScript, and Swift.
 - 🔭 I’m currently working on a Discord bot.
 -   You can invite it [here](https://top.gg/bot/1036384426113908756)!
 - 🌱 I’m currently fluent in Python, partially fluent in JavaScript, Swift, and C#. I am bad at Java, and learning Rust.
-- 👯 I’m looking to collaborate on simple Python projects. (Simple not meaning basic, just not complex :)
-- 🤔 I’m looking for help with any issues with my repositories.
+- 🤔 Yall should lowkey help with any issues with my repositories.
 - 💬 Ask me about my Discord bot!
 - 📫 How to reach me: 
   - Discord: elijahsears7#5573
